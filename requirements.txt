@@ -7,4 +7,5 @@ sklearn
 dill
 flask
 gunicorn
+wheel
 -e .
