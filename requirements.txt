@@ -7,4 +7,4 @@ sklearn
 dill
 flask
 gunicorn
-#-e .
+-e .
