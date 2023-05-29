@@ -7,4 +7,5 @@ sklearn
 dill
 flask
 gunicorn
+sklearn.preprocessing
 #-e .
