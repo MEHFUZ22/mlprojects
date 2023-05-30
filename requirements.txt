@@ -3,9 +3,9 @@ numpy
 seaborn
 catboost
 xgboost
+scikit-learn
 sklearn
 dill
 flask
 gunicorn
-wheel
 -e .
